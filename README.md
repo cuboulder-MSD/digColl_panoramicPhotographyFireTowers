@@ -120,8 +120,8 @@ Statement in collection: The organization that has made the Item available belie
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 ## Resources
-For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; []().
 Colorado Lookout Directory: [https://firelookout.org/lookouts/us/co/](https://firelookout.org/lookouts/us/co/)
+
 Osborne Panoramic Camera, article: [https://www.wildlandnw.net/the-osborne-panoramas](https://www.wildlandnw.net/the-osborne-panoramas)
 ## Notes
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
