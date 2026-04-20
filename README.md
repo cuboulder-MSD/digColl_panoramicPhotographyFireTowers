@@ -79,7 +79,7 @@ Terms used:
 ### Subject Geographic
 Geographic location(s) relevant to the item. 
 
-Terms used:[White River National Forest (Colorado, United States, North America) (national forest)](http://vocab.getty.edu/page/tgn/2767041); [Glade Mountain (Dolores, Colorado, United States, North America) (summit)](https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/176520) 
+Terms used: [White River National Forest (Colorado, United States, North America) (national forest)](http://vocab.getty.edu/page/tgn/2767041); [Glade Mountain (Dolores, Colorado, United States, North America) (summit)](https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/176520) 
 ### Subject Temporal
 Used for chronological subject terms or temporal coverage. 
 
