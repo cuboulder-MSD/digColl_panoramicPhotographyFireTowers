@@ -51,7 +51,7 @@ Language(s) seen in this collection include: English
 ### Form
 A particular physical presentation of a resource, including the physical form or medium of material for a resource. 
 
-Form terms include:[infrared film ](http://vocab.getty.edu/page/aat/300226310); [black-and-white negatives](http://vocab.getty.edu/page/aat/300128343)
+Form terms include: [infrared film ](http://vocab.getty.edu/page/aat/300226310); [black-and-white negatives](http://vocab.getty.edu/page/aat/300128343)
 ### Extent
 The size or scale of the work.
 ### Internet Media Type: 
