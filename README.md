@@ -1,6 +1,7 @@
 # Panoramic Photography from Fire Towers on Colorado National Lands
 ## Description
-[Enter abstract of the collection, often found on the landing page and provided by the project owner]
+This collection consists of panoramic photographs produced by the U.S. Forest Service between 1941–1943. The images are 120º panoramas taken at sites across national forests in Colorado and surrounding states. They were captured to aid with wildfire management.
+
 
 Permanent address to digital collection: [https://doi.org/10.60807/2mmy-1t64](https://doi.org/10.60807/2mmy-1t64).<br /> 
 Please use the same link when sharing or citing the collection.
