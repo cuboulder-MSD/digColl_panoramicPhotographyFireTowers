@@ -128,4 +128,4 @@ Osborne Panoramic Camera, article: [https://www.wildlandnw.net/the-osborne-panor
 Please note that the metadata contained in this repository may not be the most up to date, but is updated on a continuing basis.
 ## Metadata Versions
 1st version: Panoramic_Photography_Fire_20260518143118; Uploaded 2026-05-18; metadata uploaded to Luna with DOIs minted.
-2nd version: Panoramic_Photography_from_Fi_20260601083522.csv; Uploaded 2026-06-01; duplicate photographs addded to collection with DOIs minted.
+<br>2nd version: Panoramic_Photography_from_Fi_20260601083522.csv; Uploaded 2026-06-01; duplicate photographs addded to collection with DOIs minted.
